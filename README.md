@@ -6,7 +6,10 @@
 Proyek ini mendemonstrasikan cara mengukur ukuran objek 3D menggunakan marker ArUco dan teknik visi komputer.  Menggunakan kamera, proyek ini mendeteksi marker ArUco, menghitung pose (posisi dan orientasi) marker, dan kemudian memanfaatkan informasi tersebut untuk memperkirakan dimensi objek yang ditempatkan di dekat atau di atas marker.
 
 ## Refrensi
-<video controls src="image/refrence.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/44b9caff-ecde-4d76-b0c1-96e0773c5530
+
 
 ## Deskripsi
 Proyek ini menyediakan implementasi langkah demi langkah untuk mengukur ukuran objek 3D dengan menggunakan marker ArUco dan visi komputer. Cara kerja:
