@@ -7,8 +7,10 @@ Proyek ini mendemonstrasikan cara mengukur ukuran objek 3D menggunakan marker Ar
 
 ## Refrensi
 
+| Refrensi        | 
+| ------------- | 
+| https://github.com/user-attachments/assets/44b9caff-ecde-4d76-b0c1-96e0773c5530 |  
 
-https://github.com/user-attachments/assets/44b9caff-ecde-4d76-b0c1-96e0773c5530
 
 
 ## Deskripsi
@@ -23,11 +25,15 @@ Proyek ini menyediakan implementasi langkah demi langkah untuk mengukur ukuran o
 
 ---
 ## Hasil
+| Hasil        | 
+| ------------- | 
+| https://github.com/user-attachments/assets/183035b7-9761-442a-86d4-cef299dcef31 |  
 
+![Gambar 3](image/Picture14.png) ![Gambar 3](image/Picture15.png)
 
-https://github.com/user-attachments/assets/183035b7-9761-442a-86d4-cef299dcef31
-
-
+### Blender
+![Gambar 3](image/Picture8.png)  
+![Gambar 3](image/Picture9.png)  
 
 ## Libary 
 *   **opencv-python:** Library OpenCV untuk Python.
