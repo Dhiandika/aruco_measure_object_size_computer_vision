@@ -25,6 +25,10 @@ Proyek ini menyediakan implementasi langkah demi langkah untuk mengukur ukuran o
 ## Hasil
 
 
+https://github.com/user-attachments/assets/183035b7-9761-442a-86d4-cef299dcef31
+
+
+
 ## Libary 
 *   **opencv-python:** Library OpenCV untuk Python.
 *   **numpy:** Library NumPy untuk komputasi numerik.
