@@ -40,9 +40,10 @@ Proyek ini menyediakan implementasi langkah demi langkah untuk mengukur ukuran o
    ```bash
     pip install -r requirements.txt
     ```
-3. install ip camera, need (1/2 ip)
+3. install ip camera, need (1/2 ip) you can get it in playsore or app sotre 
 4. run the program
    ```bash
+    cd main
     python main.py
     ```
 
